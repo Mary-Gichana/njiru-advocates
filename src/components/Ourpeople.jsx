@@ -2,17 +2,17 @@ const people = [
   {
     name: "Njiru Kibaru",
     qualification: "Senior Advocate",
-    image: "public/Images/DSC_8999.JPG",
+    image: "/Images/DSC_8999.JPG",
   },
   {
     name: "name",
     qualification: "Associate Advocate",
-    image: "public/Images/DSC_9005.JPG",
+    image: "/Images/DSC_9005.JPG",
   },
   {
     name: "name",
     qualification: "Associate Advocate",
-    image: "public/Images/DSC_9006.JPG",
+    image: "/Images/DSC_9006.JPG",
   },
 ];
 
