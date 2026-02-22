@@ -66,7 +66,7 @@ function Navbar() {
           {/* LOGO */}
           <div className="flex items-center space-x-3">
             <img
-              src="public/Images/DSC_8965.JPG"
+              src="/Images/DSC_8965.JPG"
               alt="Njiru Kibaru and Advocates Logo"
               className="h-12 w-12 object-contain"
             />
