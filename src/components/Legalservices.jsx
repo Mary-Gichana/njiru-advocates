@@ -3,67 +3,67 @@ const services = [
     title: "Legal Advisory & Consultation",
     description:
       "We offer expert legal advice to help clients understand their rights, obligations, and available legal options under Kenyan law.",
-    image: "src/assets/Images/njiru1.jpg",
+    image: "public/Images/njiru1.jpg",
   },
   {
     title: "Litigation & Court Representation",
     description:
       "We represent clients in civil, criminal, and commercial matters before all courts in Kenya, ensuring effective advocacy and protection of client interests.",
-    image: "src/assets/Images/njiru2.jpg",
+    image: "public/Images/njiru2.jpg",
   },
   {
     title: "Alternative Dispute Resolution (ADR)",
     description:
       "We assist clients in resolving disputes through mediation, arbitration, and negotiation, offering efficient and cost-effective alternatives to litigation.",
-    image: "src/assets/Images/njiru3.jpg",
+    image: "public/Images/njiru3.jpg",
   },
   {
     title: "Corporate & Commercial Law",
     description:
       "Our services include company incorporation, corporate governance, regulatory compliance, mergers and acquisitions, and drafting of commercial contracts.",
-    image: "src/assets/Images/njiru4.jpg",
+    image: "public/Images/njiru4.jpg",
   },
   {
     title: "Property & Conveyancing",
     description:
       "We handle property transactions including land searches, sale and purchase agreements, title transfers, leases, and property-related disputes.",
-    image: "src/assets/Images/njiru5.jpg",
+    image: "public/Images/njiru5.jpg",
   },
   {
     title: "Family & Succession Law",
     description:
       "We advise and represent clients in matters relating to divorce, child custody and maintenance, succession planning, wills, probate, and estate administration.",
-    image: "src/assets/Images/njiru6.jfif",
+    image: "public/Images/njiru6.jfif",
   },
   {
     title: "Criminal Defense",
     description:
       "We provide robust legal representation for individuals facing criminal charges, safeguarding their constitutional rights throughout the legal process.",
-    image: "src/assets/Images/njiru7.jfif",
+    image: "public/Images/njiru7.jfif",
   },
   {
     title: "Employment & Labour Law",
     description:
       "We assist employers and employees with employment contracts, workplace disputes, termination matters, and compliance with labour laws.",
-    image: "src/assets/Images/njiru8.jfif",
+    image: "public/Images/njiru8.jfif",
   },
   {
     title: "Immigration Law",
     description:
       "We handle applications for visas, work permits, permanent residency, and citizenship in accordance with Kenyan immigration laws.",
-    image: "src/assets/Images/njiru9.jfif",
+    image: "public/Images/njiru9.jfif",
   },
   {
     title: "Intellectual Property Law",
     description:
       "We assist in the registration and protection of trademarks, copyrights, and other intellectual property rights.",
-    image: "src/assets/Images/njiru10.jfif",
+    image: "public/Images/njiru10.jfif",
   },
   {
     title: "Legal Aid & Pro Bono Services",
     description:
       "We are committed to access to justice by offering legal aid and pro bono services to deserving clients.",
-    image: "src/assets/Images/njiru11.jfif",
+    image: "public/Images/njiru11.jfif",
   },
 ];
 function Legalservices() {

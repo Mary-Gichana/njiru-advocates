@@ -7,7 +7,7 @@ function Contacts() {
         {/* LEFT: ABOUT */}
         <div>
           <img
-            src="src/assets/Images/DSC_8965.JPG"
+            src="public/Images/DSC_8965.JPG"
             alt="Njiru Advocates"
             className="h-20 mb-6 rounded-lg shadow-md"
           />

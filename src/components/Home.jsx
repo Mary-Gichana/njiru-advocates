@@ -9,18 +9,18 @@ import Ourpeople from "./Ourpeople";
 const images = [
   {
     id: 1,
-    src: "src/assets/Images/DSC_8971.JPG",
+    src: "public/Images/DSC_8971.JPG",
     text: "Trusted Legal Solutions for Every Client",
   },
   {
     id: 2,
-    src: "src/assets/Images/DSC_8973.JPG",
+    src: "public/Images/DSC_8973.JPG",
     text: "Professional Advocacy with Integrity",
   },
-  { id: 3, src: "src/assets/Images/DSC_8977.JPG" },
-  { id: 4, src: "src/assets/Images/DSC_8983.JPG" },
-  { id: 5, src: "src/assets/Images/DSC_8988.JPG" },
-  { id: 6, src: "src/assets/Images/DSC_8999.JPG" },
+  { id: 3, src: "public/Images/DSC_8977.JPG" },
+  { id: 4, src: "public/Images/DSC_8983.JPG" },
+  { id: 5, src: "public/Images/DSC_8988.JPG" },
+  { id: 6, src: "public/Images/DSC_8999.JPG" },
 ];
 
 function Home() {
