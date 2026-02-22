@@ -2,9 +2,9 @@ import { Link } from "react-router-dom";
 function Genderviolence() {
   return (
     <section className="bg-gray-50 py-20 px-6 md:px-16">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mt-9">
         {/* HEADER */}
-        <div className="mb-16 text-center">
+        <div className="mb-7 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             Our Firm’s Stand Against Gender-Based Violence
           </h2>

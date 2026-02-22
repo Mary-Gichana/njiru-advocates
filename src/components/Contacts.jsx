@@ -3,7 +3,7 @@ import React from "react";
 function Contacts() {
   return (
     <section className="bg-gradient-to-br from-gray-50 to-gray-100 py-24">
-      <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
+      <div className="max-w-6xl mt-9 px-6 grid md:grid-cols-2 gap-16 items-center">
         {/* LEFT: ABOUT */}
         <div>
           <img

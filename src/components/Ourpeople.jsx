@@ -19,7 +19,7 @@ const people = [
 function Ourpeople() {
   return (
     <section className="bg-white py-20 px-6 md:px-16">
-      <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mt-9">
         {/* HEADER */}
         <div className="mb-14 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
