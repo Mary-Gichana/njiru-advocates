@@ -93,7 +93,7 @@ function Legalservices() {
               <img
                 src={service.image}
                 alt={service.title}
-                className="w-full h-52 object-cover"
+                className="w-full h-40 object-cover"
               />
 
               {/* CONTENT */}

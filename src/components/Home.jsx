@@ -5,6 +5,7 @@ import Aboutus from "./Aboutus";
 import { Link } from "react-router-dom";
 import Legalservices from "./Legalservices";
 import Ourpeople from "./Ourpeople";
+import Genderviolence from "./genderviolence";
 
 const images = [
   {
@@ -119,6 +120,9 @@ function Home() {
       </section>
       <section id="ourpeople" className="bg-white">
         <Ourpeople />
+      </section>
+      <section id="ourpeople" className="bg-white">
+        <Genderviolence />
       </section>
       <section id="contacts" className="bg-white">
         <Contacts />

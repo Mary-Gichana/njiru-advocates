@@ -12,7 +12,7 @@ function Navbar() {
     // ✅ FIXED + CENTERED
     <header className="fixed top-0 left-0 w-full z-50 flex justify-center">
       {/* ✅ WIDTH CONTROL */}
-      <div className="w-[90%] max-w-7xl ">
+      <div className="w-[98%] max-w-7xl ">
         {/* TOP BAR */}
         <div className="bg-[#b81abb] text-white text-sm px-6 py-2 flex justify-between items-center rounded-t-2xl">
           {/* LEFT */}
@@ -84,19 +84,25 @@ function Navbar() {
               Home
             </Link>
             <Link to="/aboutus" className="text-[#b81abb] hover:text-[#666666]">
-              Aboutus
+              About us
             </Link>
             <Link
               to="/legalservices"
               className="text-[#b81abb] hover:text-[#666666]"
             >
-              Legalservices
+              Legal services
             </Link>
             <Link
               to="/ourpeople"
               className="text-[#b81abb] hover:text-[#666666]"
             >
-              Ourpeople
+              Our people
+            </Link>
+            <Link
+              to="/genderviolence"
+              className="text-[#b81abb] hover:text-[#666666]"
+            >
+              Gender based violence
             </Link>
             <Link
               to="/contacts"

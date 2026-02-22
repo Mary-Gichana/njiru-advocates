@@ -1,17 +1,17 @@
 const people = [
   {
     name: "Njiru Kibaru",
-    qualification: "Senior Advocate",
+    qualification: "Lawyer",
     image: "/Images/DSC_8999.JPG",
   },
   {
-    name: "name",
-    qualification: "Associate Advocate",
+    name: "Peterson Nyariki",
+    qualification: "Lawyer",
     image: "/Images/DSC_9005.JPG",
   },
   {
     name: "name",
-    qualification: "Associate Advocate",
+    qualification: "Secretary",
     image: "/Images/DSC_9006.JPG",
   },
 ];
