@@ -1,7 +1,7 @@
 const people = [
   {
     name: "Njiru Kibaru",
-    qualification: "Lawyer",
+    qualification: "Advocate",
     image: "/Images/DSC_8999.JPG",
   },
   {
